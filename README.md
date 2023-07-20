@@ -29,13 +29,13 @@
     <img align= "right" height="160" width="140" src="https://i.pinimg.com/originals/ae/16/0c/ae160cc092f339d1d91062ca6f8c0bf9.jpg">
   
   <h3 align= "left"> Sobre mim </div>
+  <br>
     
   - 🎉 Tenho 19 anos
   - ✈ Moro em Brasília (Brasil)
   - 💻 Curso Engenharia de Software na Universidade de Brasília
   - 🎮 Gosto de games
   
-  <br><br>
 </div>
 
  ##
