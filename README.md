@@ -31,7 +31,7 @@
   <h3 align= "left"> Sobre mim </div>
   <br>
     
-  - 🎉 Tenho 19 anos
+  - 🎉 Tenho 20 anos
   - ✈ Moro em Brasília (Brasil)
   - 💻 Curso Engenharia de Software na Universidade de Brasília
   - 🎮 Gosto de games
